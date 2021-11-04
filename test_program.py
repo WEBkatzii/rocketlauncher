@@ -1,4 +1,2 @@
-import random
-
-for i in range(random.randint(0, 9)):
-  print("test_program was Launched"
+print("test_program was launched!")
+print("Thank you for using rocket launcher")
