@@ -34,7 +34,7 @@ window = Tk()
 window.geometry("400x400")
 
 rpgbutton = Button(window)
-rpg = app("RPG", "https://github.com/WEBkatzii/rocketlauncher/raw/main/rpg.py", "~/rpg.py", rpgbutton)
+rpg = app("RPG", "https://github.com/WEBkatzii/rocketlauncher_apps/raw/main/rpg.py", "~/rpg.py", rpgbutton)
 rpg.setup()
 
 window.mainloop()
